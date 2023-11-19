@@ -6,11 +6,8 @@
 <meta charset="utf-8">
 <link rel="stylesheet" type="text/css" href="<?php echo URL; ?>public/css/fontawesome.css">
 <link rel="stylesheet" type="text/css" href="<?php echo URL; ?>public/css/fontawesome.min.css">
-<script src="<?php echo URL; ?>public/js/fontawesome.js"></script>
-
 <link rel="stylesheet" type="text/css" href="<?php echo URL; ?>public/css/base.css">
 <script type="text/javascript" src="<?php echo URL; ?>public/js/funciones.js"></script>
-<script type="text/javascript" src="<?php echo URL; ?>public/js/menu.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/4.6.1/flatly/bootstrap.min.css" integrity="sha512-NnOXwTfcNBeRenMzrDACGwxbThjRcI5H8jvM+VDKKkXA6wkAb2c0t1YgDXWmW2TNX1CUSe6Ma6HXYG2J1rBGDQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <script src="https://kit.fontawesome.com/f151dcbf06.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
